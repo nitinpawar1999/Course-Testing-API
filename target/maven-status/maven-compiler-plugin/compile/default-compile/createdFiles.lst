@@ -1,0 +1,5 @@
+com\courses\controller\HomeController.class
+com\courses\Model\Course.class
+com\courses\repository\Repository.class
+com\courses\service\CourseService.class
+com\courses\Spring1Application.class
